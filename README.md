@@ -1,4 +1,4 @@
-#Customer Churn Prediction Using Machine Learning
+# Customer Churn Prediction Using Machine Learning
 ##Project Overview
 
 This project focuses on predicting customer churn using machine learning techniques. Customer churn is when customers stop doing business with a company. By predicting churn, businesses can take proactive steps to retain customers. The dataset used contains customer information, and the project employs various machine learning algorithms to predict customer churn.
