@@ -1,9 +1,10 @@
-Customer Churn Prediction Using Machine Learning
-Project Overview
+#Customer Churn Prediction Using Machine Learning
+##Project Overview
 
 This project focuses on predicting customer churn using machine learning techniques. Customer churn is when customers stop doing business with a company. By predicting churn, businesses can take proactive steps to retain customers. The dataset used contains customer information, and the project employs various machine learning algorithms to predict customer churn.
-Project Structure
 
+
+##Project Structure
 The notebook is organized into the following sections:
 
     Introduction and Data Loading
@@ -12,9 +13,8 @@ The notebook is organized into the following sections:
     Model Training and Evaluation
     Model Improvement
 
-1. Introduction and Data Loading
-Libraries and Packages
-
+##1. Introduction and Data Loading
+###Libraries and Packages
 The project makes use of several key libraries:
 
     pandas: For data manipulation and analysis.
@@ -22,7 +22,7 @@ The project makes use of several key libraries:
     matplotlib and seaborn: For data visualization.
     scikit-learn: For machine learning algorithms and evaluation metrics.
 
-Data Loading
+###Data Loading
 
 The dataset is loaded into a pandas DataFrame. The dataset includes various customer attributes such as:
 
